@@ -2,7 +2,7 @@
 //  ViewController.m
 //  ECGTestPattern
 //
-//  Created by 本田忠嗣 on 2015/08/05.
+//  Created by 本田忠嗣 on 2016/01/10.
 //  Copyright (c) 2015年 Orifice. All rights reserved.
 //
 

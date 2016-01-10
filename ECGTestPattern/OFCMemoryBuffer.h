@@ -2,7 +2,7 @@
 //  OFCMemoryBuffer.h
 //  TestPlayPCMSound0
 //
-//  Created by 本田忠嗣 on 2015/05/09.
+//  Created by 本田忠嗣 on 2016/01/10.
 //  Copyright (c) 2015年 Orifice. All rights reserved.
 //
 
